@@ -3,8 +3,6 @@ http://mitran-lab.amath.unc.edu/courses/MATH661/MATH661.xhtml
 
 Representative Projects:
 
-1. Developed a numerical weather prediction model using a large-scale data decomposition technique, such as matrix factorization.
-
+1. Developed a numerical weather prediction model using a large-scale data-driven approach.
 2. Implemented least squares polynomial approximation to model the diameter of blood vessels and average blood velocity in aneurysms.
-
 3. Investigated operator approximation techniques in the Sturm-Liouville eigenbasis.
